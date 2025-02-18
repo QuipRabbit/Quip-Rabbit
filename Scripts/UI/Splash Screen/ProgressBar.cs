@@ -1,4 +1,4 @@
-// After the Quip Rabbit token pre-sale is successful and the tokens are sold out. We will update the latest and complete code, thank you.
+// After Quip Rabbit token pre-sale (ICO) is successful and reaches the hard cap. We will update the latest and complete code, thank you very much.
 
 using TMPro;
 using UnityEngine;
@@ -35,4 +35,4 @@ public class ProgressBar : MonoBehaviour
     }
 }
 
-// After the Quip Rabbit token pre-sale is successful and the tokens are sold out. We will update the latest and complete code, thank you.
+// After Quip Rabbit token pre-sale (ICO) is successful and reaches the hard cap. We will update the latest and complete code, thank you very much.
