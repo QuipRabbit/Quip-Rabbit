@@ -1,4 +1,4 @@
-// After the Quip Rabbit token pre-sale is successful and completed. We will update the latest and complete code, thank you.
+// After Quip Rabbit token pre-sale (ICO) is successful and reaches the hard cap. We will update the latest and complete code, thank you very much.
 
 using UnityEngine;
 using PlayFab;
@@ -117,4 +117,4 @@ public class AuthManager : MonoBehaviour
     }
 }
 
-// After the Quip Rabbit token pre-sale is successful and completed. We will update the latest and complete code, thank you.
+// After Quip Rabbit token pre-sale (ICO) is successful and reaches the hard cap. We will update the latest and complete code, thank you very much.
