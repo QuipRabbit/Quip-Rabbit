@@ -1,3 +1,5 @@
+// After the Quip Rabbit token pre-sale is successful and the tokens are sold out. We will update the latest and complete code, thank you.
+
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -32,3 +34,5 @@ public class ProgressBar : MonoBehaviour
         _valueTargetProgress = _progressBarSlider.value + _newProgressBar;
     }
 }
+
+// After the Quip Rabbit token pre-sale is successful and the tokens are sold out. We will update the latest and complete code, thank you.
