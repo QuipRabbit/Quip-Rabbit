@@ -10,13 +10,13 @@ public class ProfileManager : MonoBehaviour
 {
     [SerializeField] private TMP_Text _usernameText;
     [SerializeField] private TMP_Text _yourScoreText;
-    [SerializeField] private Image _spinnerImageUsername;
-    [SerializeField] private Image _spinnerImageScore;
+    [SerializeField] private Image _loadingSpinnerImageForUsername;
+    [SerializeField] private Image _loadingSpinnerImageForScore;
 
     void Start()
     {
-        _spinnerImageUsername.gameObject.SetActive(true);
-        _spinnerImageScore.gameObject.SetActive(true);
+        _loadingSpinnerImageForUsername.gameObject.SetActive(true);
+        _loadingSpinnerImageForScore.gameObject.SetActive(true);
         _usernameText.gameObject.SetActive(false);
         _yourScoreText.gameObject.SetActive(false);
         GetPlayerRank();
