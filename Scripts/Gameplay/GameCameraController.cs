@@ -14,9 +14,20 @@ public class GameCameraController : MonoBehaviour
     private bool _isDragging;
     [SerializeField] private RectTransform panelJoystickRect;
 
+    private void Awake()
+    {
+        StartCoroutine(WaitPanelJoystick());
+    }
+
+    IEnumerator WaitPanelJoystick()
+    {
+        yield return new WaitForSeconds(4f);
+        panelJoystickRect = GameObject.FindWithTag("PanelJoystick").GetComponent<RectTransform>();
+    }
+
     private void Start()
     {
-       
+        
     }
 
 }
