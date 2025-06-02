@@ -1,2 +1,2 @@
 # Quip-Rabbit
-Web3 play to earn, a multiplayer game focused on knockout battle royale party and more modes are coming!
+Quip Rabbit is a fun GameFi with Play-to-Earn (P2E) core features, multiplayer and single-player games with a variety of fun mini-game modes!
